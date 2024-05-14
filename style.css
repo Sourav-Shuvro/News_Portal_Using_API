@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(0, 14%, 95%);
+}
+h1,h3,h5{
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+a{
+    font-family: "Staatliches", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    color: #949494;
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.categories a{
+    text-decoration: none;
+    color: black;
+}
+.categories a:hover{
+    color: cyan;
+    text-decoration: underline;
+}
+.card-body p{
+    height: 70px;
+}
+.card-footer img{
+    height: 40px;
+    width: 40px;
+}
